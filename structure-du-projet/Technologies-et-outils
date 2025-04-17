@@ -1,0 +1,16 @@
+🔧 Technologies and tools used
+
+- Languages: Python
+- Python libraries: Pandas, Numpy, Matplotlib, Seaborn, Plotly
+- Visualization tools: Looker Studio
+
+
+📁 Directory structure
+
+-Structure-of-Projet
+- Data
+- Notebooks
+-Data-vizualization-Looker-Studio
+- Readme.md
+- .gitignore
+- Requirements.txt
